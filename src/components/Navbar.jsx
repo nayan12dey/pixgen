@@ -54,5 +54,3 @@ const Navbar = () => {
 export default Navbar;
 
 
-
-// conceptual Project Overview & Setup er 15:40 theke start korbo
