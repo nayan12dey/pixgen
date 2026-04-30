@@ -7,7 +7,7 @@ import { FaHeart } from "react-icons/fa";
 
 const PhotoCard = ({ photo }) => {
 
-    console.log(photo)
+    // console.log(photo)
 
     return (
         <Card className="border rounded-xl">
